@@ -1,8 +1,10 @@
-# Maze Game Project
-
+# Mazer
+## Overview
 <p align="left">
   <img src="maze_game_screenshot.png" alt="Maze Game" width="200">
 </p>
+The goal of this project was to develop a playable maze game using procedural generation. The game features a random maze generator with configurable parameters, allowing players to navigate from point A to point B. Additional elements such as player movement, camera systems, map editor mode, collectible items, and more were implemented to enhance gameplay.
+
 
 ## Authors
 
@@ -11,9 +13,7 @@
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-## Overview
 
-The goal of this project was to develop a playable maze game using procedural generation. The game features a random maze generator with configurable parameters, allowing players to navigate from point A to point B. Additional elements such as player movement, camera systems, map editor mode, collectible items, and more were implemented to enhance gameplay.
 
 ## Content Checklist
 

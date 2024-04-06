@@ -1,7 +1,16 @@
 # Maze Game Project
 
-![Maze Game](maze_game_screenshot.png)
+<p align="left">
+  <img src="maze_game_screenshot.png" alt="Maze Game" width="200">
+</p>
 
+## Authors
+
+- [@notkatsuu](https://www.github.com/notkatsuu) - Pau Castellà Reig
+- [@ShadowLoker](https://www.github.com/ShadowLoker) - Lluc Koome Cebrià
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 ## Overview
 
 The goal of this project was to develop a playable maze game using procedural generation. The game features a random maze generator with configurable parameters, allowing players to navigate from point A to point B. Additional elements such as player movement, camera systems, map editor mode, collectible items, and more were implemented to enhance gameplay.

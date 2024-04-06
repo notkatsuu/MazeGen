@@ -1,8 +1,9 @@
 # Maze Game Project
 
 <p align="center">
-  <img src="maze_game_screenshot.png" alt="Maze Game" width="400">
+  <img src="maze_game_screenshot.png" alt="Maze Game" width="100">
 </p>
+
 
 
 ## Overview

@@ -1,6 +1,6 @@
 # Maze Game Project
 
-<p align="center">
+<p align="left">
   <img src="maze_game_screenshot.png" alt="Maze Game" width="200">
 </p>
 

@@ -1,6 +1,9 @@
 # Maze Game Project
 
-![Maze Game](maze_game_screenshot.png)
+<p align="center">
+  <img src="maze_game_screenshot.png" alt="Maze Game" width="400">
+</p>
+
 
 ## Overview
 
